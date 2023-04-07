@@ -1,0 +1,26 @@
+
+ .attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+body{
+    background-color:hsl(212, 45%, 89%);;
+}
+
+.img-container{
+    width:95%;
+    height: auto;
+    object-fit: contain;
+}
+
+.text-style{
+    color:hsl(218, 44%, 22%);
+}
+.light-gray-text{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+}
